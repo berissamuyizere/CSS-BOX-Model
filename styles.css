@@ -2,10 +2,12 @@
     padding: 20px;
     margin: 5%;
     border: solid 2px green;
+    text-align: center;
 
 }
 .container{
     border: dotted 2px brown;
+    
 }
 
 label{
