@@ -1,7 +1,7 @@
 .inner-container{
     padding: 20px;
     margin: 5%;
-    border: solid 2px green;
+    border: solid 2px rgb(70, 153, 70);
     text-align: center;
 
 }
@@ -10,7 +10,7 @@
     
 }
 
-label{
+p{
     font-style: italic;
     font-weight: bold;
 }
